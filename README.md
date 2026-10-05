@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="photo.png" alt="Amarnath KS" width="135" height="135" style="border-radius: 50%; border: 2.5px solid #176B68; object-fit: cover; aspect-ratio: 1/1;" />
-</p>
-
-<p align="center">
   <em>Recent BCA graduate focused on software and web development, with hands-on experience building responsive websites and practical web applications.</em>
 </p>
 
