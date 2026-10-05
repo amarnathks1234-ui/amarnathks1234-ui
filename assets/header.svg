@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 200" width="100%" height="auto" role="img" aria-label="Amarnath KS - BCA Graduate, Software and Web Developer">
+  <rect width="840" height="200" rx="8" fill="#F3F2EA" stroke="#D0D0C5" stroke-width="1.5"/>
+  
+  <!-- Top Eyebrow -->
+  <text x="44" y="46" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2.5" fill="#176B68">GITHUB PROFILE • KERALA, INDIA</text>
+  
+  <!-- Main Name -->
+  <text x="44" y="104" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="44" font-weight="900" letter-spacing="1.5" fill="#111111">AMARNATH KS</text>
+  
+  <!-- Accent corner mark / subtle editorial indicator -->
+  <text x="796" y="46" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5" fill="#888880">2026</text>
+  
+  <!-- Hairline Divider -->
+  <line x1="44" y1="130" x2="796" y2="130" stroke="#D0D0C5" stroke-width="1"/>
+  
+  <!-- Professional Subtitle -->
+  <text x="44" y="164" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5" fill="#3D3D3A">BCA GRADUATE</text>
+  <text x="175" y="164" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="800" fill="#176B68">|</text>
+  <text x="195" y="164" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5" fill="#176B68">SOFTWARE &amp; WEB DEVELOPER</text>
+</svg>
