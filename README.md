@@ -3,25 +3,19 @@
 </p>
 
 <p align="center">
-  <img src="photo.png" alt="Amarnath KS" width="140" height="140" style="border-radius: 6px;" />
-</p>
-
-<h2 align="center">AMARNATH KS</h2>
-
-<p align="center">
-  <strong>BCA Graduate | Software &amp; Web Developer</strong><br />
-  Kerala, India
-</p>
-
-<p align="center">
-  <a href="https://github.com/amarnathks1234-ui">GitHub</a> • 
-  <a href="https://linkedin.com/in/amarnathks2005">LinkedIn</a> • 
-  <a href="Resume.pdf">Resume (PDF)</a> • 
-  <a href="mailto:amarnathks1234@gmail.com">Email</a>
+  <img src="photo.png" alt="Amarnath KS" width="135" height="135" style="border-radius: 50%; border: 2.5px solid #176B68; object-fit: cover; aspect-ratio: 1/1;" />
 </p>
 
 <p align="center">
   <em>Recent BCA graduate focused on software and web development, with hands-on experience building responsive websites and practical web applications.</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/amarnathks1234-ui"><img src="assets/icons/badge-github.svg" alt="GitHub" height="28" /></a>&nbsp;
+  <a href="https://linkedin.com/in/amarnathks2005"><img src="assets/icons/badge-linkedin.svg" alt="LinkedIn" height="28" /></a>&nbsp;
+  <a href="https://www.instagram.com/amarrr.cy?igsh=MWZycXc4ZXc4bHL1OQ=="><img src="assets/icons/badge-instagram.svg" alt="Instagram" height="28" /></a>&nbsp;
+  <a href="Resume.pdf"><img src="assets/icons/badge-resume.svg" alt="Resume" height="28" /></a>&nbsp;
+  <a href="mailto:amarnathks1234@gmail.com"><img src="assets/icons/badge-email.svg" alt="Email" height="28" /></a>
 </p>
 
 ---
@@ -30,8 +24,8 @@
 
 My updated curriculum vitae detailing technical qualifications, academic background, and practical internship experience is available in PDF format:
 
-- **[View Resume (PDF)](Resume.pdf)**
-- **[Download Resume (PDF)](Resume.pdf)**
+- <img src="assets/icons/resume.svg" width="14" height="14" /> **[View Resume (PDF)](Resume.pdf)**
+- <img src="assets/icons/resume.svg" width="14" height="14" /> **[Download Resume (PDF)](Resume.pdf)**
 
 ---
 
@@ -143,8 +137,9 @@ All projects and code updates are tracked publicly on GitHub:
 
 If you would like to discuss a project, an internship role, or an entry-level software or web development opportunity, please feel free to reach out:
 
-- **GitHub:** [github.com/amarnathks1234-ui](https://github.com/amarnathks1234-ui)
-- **LinkedIn:** [linkedin.com/in/amarnathks2005](https://linkedin.com/in/amarnathks2005)
-- **Resume:** [View Resume PDF](Resume.pdf)
-- **Email:** [amarnathks1234@gmail.com](mailto:amarnathks1234@gmail.com)
-- **Location:** Kerala, India
+- <img src="assets/icons/github.svg" width="15" height="15" /> **GitHub:** [github.com/amarnathks1234-ui](https://github.com/amarnathks1234-ui)
+- <img src="assets/icons/linkedin.svg" width="15" height="15" /> **LinkedIn:** [linkedin.com/in/amarnathks2005](https://linkedin.com/in/amarnathks2005)
+- <img src="assets/icons/instagram.svg" width="15" height="15" /> **Instagram:** [instagram.com/amarrr.cy](https://www.instagram.com/amarrr.cy?igsh=MWZycXc4ZXc4bHL1OQ==)
+- <img src="assets/icons/resume.svg" width="15" height="15" /> **Resume:** [View Resume (PDF)](Resume.pdf)
+- <img src="assets/icons/email.svg" width="15" height="15" /> **Email:** [amarnathks1234@gmail.com](mailto:amarnathks1234@gmail.com)
+- 📍 **Location:** Kerala, India
